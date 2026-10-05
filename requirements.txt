@@ -25,7 +25,7 @@ Jinja2==3.1.6
 langchain==0.3.25
 langchain_text_splitters==0.3.8
 langid==1.1.6
-litellm==1.72.2
+litellm==1.93.2
 mammoth==1.9.0
 markdownify==1.1.0
 mcpadapt==0.1.9
