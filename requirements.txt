@@ -15,7 +15,7 @@ duckduckgo_search==8.0.2
 e2b_code_interpreter==1.5.1
 firecrawl==2.7.1
 google_search_results==2.4.2
-gradio==5.33.0
+gradio==6.16.0
 gradio_client==1.10.2
 helium==5.1.1
 huggingface_hub==0.31.2
